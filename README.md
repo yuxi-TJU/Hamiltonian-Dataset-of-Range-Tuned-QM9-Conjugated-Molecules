@@ -4,8 +4,9 @@ A dataset of conjugated molecules from QM9 with range-tuned functional calculati
 ## Dataset URL
 The dataset is available at Zenodo(10.5281/zenodo.14906024)
 
-## Usage example :
+## Dataset Usage :
 
+'''python
 import sqlite3
 
 conn = sqlite3.connect('qm9_conj_OT-w.db') 
