@@ -6,7 +6,7 @@ The dataset is available at Zenodo(10.5281/zenodo.14906024)
 
 ## Dataset Usage :
 
-'''python
+```python
 import sqlite3
 
 conn = sqlite3.connect('qm9_conj_OT-w.db') 
