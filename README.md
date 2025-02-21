@@ -2,7 +2,7 @@
 A dataset of conjugated molecules from QM9 with range-tuned functional calculations, including Hamiltonian matrices, orbital energies, and overlap matrices, etc.
 
 ## Dataset URL
-The dataset is available at Zenodo(10.5281/zenodo.14906024)
+The dataset is available at Zenodo(https://zenodo.org/records/14906024)
 
 ## Dataset Usage :
 
