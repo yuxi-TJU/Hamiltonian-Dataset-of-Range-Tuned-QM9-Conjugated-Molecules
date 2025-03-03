@@ -9,7 +9,7 @@ The dataset is available at `Zenodo` (https://zenodo.org/records/14906024)
 ```python
 import sqlite3
 
-conn = sqlite3.connect('qm9_conj_OT-w.db') 
+conn = sqlite3.connect('qm9_conj_OT_w.db') 
 cursor = conn.cursor()
 
 cursor.execute("SELECT * FROM qm9_data WHERE i = 0")
